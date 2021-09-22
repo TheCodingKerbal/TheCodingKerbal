@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheCodingKerbal
 - 👀 I’m interested in HTML, Python, CSS & JavaScript
-- 🌱 I’m currently learning HTML & Python
+- 🌱 I’m currently learning HTML, Python, CSS & JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
